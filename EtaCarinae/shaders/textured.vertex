@@ -1,0 +1,10 @@
+attribute vec4 attribute_Position;
+attribute vec2 attribute_TexCoord;
+
+varying vec4 varying_Color;
+
+void main() {
+	varying_Color = vec4(1.0, 1.0, 1.0, 1.0);
+	gl_Position = gl_ModelViewProjectionMatrix * vec4(attribute_Position.xyz, 1.0);
+	gl_TexCoord[0] = vec4(attribute_TexCoord, 0, 0);
+}

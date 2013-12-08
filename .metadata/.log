@@ -1,0 +1,26 @@
+!SESSION 2013-12-08 17:37:03.156 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data C:\Users\noise\Eta Carinae -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 2 2013-12-08 17:38:21.918
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.css.ui, page: org.eclipse.wst.css.ui.preferences.css)
+!SESSION 2013-12-08 17:40:34.053 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data C:\Users\noise\Eta Carinae -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 2 2013-12-08 17:40:50.180
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.css.ui, page: org.eclipse.wst.css.ui.preferences.css)
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2013-12-08 17:41:16.378
+!MESSAGE Registering: com.google.appengine.eclipse.sdkbundle_1.7.4
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2013-12-08 17:41:16.494
+!MESSAGE Registering: com.google.gwt.eclipse.sdkbundle_2.5.0.v201212122042-rel-r42
